@@ -1,7 +1,7 @@
 ## Requests:
 
 #### GET: /users - returns all users
-#### DELETE: /users - removes all usersr
+#### DELETE: /users - removes all users
 
 #### GET: /user/:id - return user by id
 #### POST: /user - creates new user
